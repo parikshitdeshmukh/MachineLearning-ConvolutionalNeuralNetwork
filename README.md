@@ -1,2 +1,4 @@
-# MachineLearning-ConvolutionalNeuralNetwork
-Projects on Convolutional neural network
+# MachineLearning-
+# Multi class classificaion using ConvolutionalNeuralNetwork
+
+Library used: TensorFlow
