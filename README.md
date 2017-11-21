@@ -1,4 +1,4 @@
-# MachineLearning-
-# Multi class classificaion using ConvolutionalNeuralNetwork
+# MachineLearning
+# Multi-class classificaion using ConvolutionalNeuralNetwork
 
 Library used: TensorFlow
